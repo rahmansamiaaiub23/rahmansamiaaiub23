@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                    SAMIA RAHMAN | Software Engineer | Wev Developer
 Hi, I'm Samia! I am a passionate Web Developer focused on building clean, user-friendly, and efficient web applications. I love turning complex problems into elegant code and am constantly exploring new technologies to expand my skill set.<br><br>💻 Currently working on responsive web projects and sharpening my frontend/backend skills.<br>🎓 Background in Computer Science & Engineering.<br>🏫 American International University-Bangladesh<br>💡 Interested in tech innovation.
 
 
@@ -13,4 +13,4 @@ Hi, I'm Samia! I am a passionate Web Developer focused on building clean, user-f
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahmansamiaaiub23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rahmansamiaaiub23&icon=0&color=0)]
+![](https://komarev.com/ghpvc/?username=rahmansamiaaiub23&icon=0&color=0)
