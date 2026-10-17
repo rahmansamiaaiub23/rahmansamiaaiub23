@@ -1,4 +1,4 @@
-#                                    SAMIA RAHMAN | Software Engineer | Web Developer
+#                                    SAMIA RAHMAN | Software Engineer | IT Intern-Prime Bank
 Hi, I'm Samia! I am a passionate Web Developer focused on building clean, user-friendly, and efficient web applications. I love turning complex problems into elegant code and am constantly exploring new technologies to expand my skill set.<br><br>💻 Currently working on responsive web projects and sharpening my frontend/backend skills.<br>🎓 Background in Computer Science & Engineering.<br>🏫 American International University-Bangladesh<br>💡 Interested in tech innovation.
 
 
